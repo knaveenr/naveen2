@@ -1,0 +1,28 @@
+body {
+     background-image:url("./coffee1.jpg");
+     background-repeat:no-repeat;
+     background-size:cover;
+    }
+ 
+ a{
+    text-decoration:none;
+    position:relative;
+    bottom:50px;
+    left:400px;
+    padding:20px;
+    color:aqua;
+    font-size:40px;
+    background-color:purple;
+    
+ }
+img{
+    position:relative;
+    width:100px;
+    height:100px;
+    right:550px;
+    border-radius:50%;
+   } 
+  p{
+    color:yellowgreen;
+
+  }   

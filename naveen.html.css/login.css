@@ -1,0 +1,27 @@
+h1{
+    text-align:center;
+    color:purple;
+   } 
+   body{
+        background-image:url("./background.jpg");
+        background-repeat:no-repeat; 
+        background-size:cover;
+        }
+ .group{
+      text-align:center;
+      position:relative;
+      left:600px;
+      border:1px solid black;
+      background:aqua;
+      width:250px;
+    
+     
+
+      
+      
+     
+
+ }
+      
+       
+       

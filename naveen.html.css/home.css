@@ -1,0 +1,17 @@
+body{
+    background-image:url("./coffee.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+h1{
+    text-align:center;
+    top:8px;
+    border:4px solid black;
+    color:gold;
+    background-color:green;
+    padding:10px;
+    position:relative;
+    }
+img{
+    top:5px;
+   }    
